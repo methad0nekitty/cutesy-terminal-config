@@ -1,0 +1,53 @@
+#kitty terminal conf pastel pink purple
+
+background_opacity 0.3
+background     #190317
+foreground    #fd99cb
+#alt background  #41104d
+
+font_family      JetBrains Mono
+bold_font        auto 
+italic_font      auto
+bold_italic_font auto
+
+selection_background          #fac6deff
+selection_foreground       #e23597ff
+cursor                        #f583c2ff
+url_color                  #40e0d1
+   
+
+# terminal colors
+
+#black
+color0                      #320232ff
+color8                      #ffa9e8ff
+
+#red
+color1                      #fe298dff
+color9                      #f894bb
+
+#green
+color2                      #f373afff
+color10                     #ffc5df
+
+#yellow
+color3                      #f64fe2ff
+color11                     #ebb9f7ff
+
+#blue
+color4                      #320c33
+color12                     #e380f3
+
+#magenta
+color5                      #f650b6ff
+color13                     #ffaad2
+
+#cyan
+color6                      #f96aa6ff
+color14                     #f4b6e1ff
+
+#white
+color7                      #fc3e9d
+color15                     #f4b6d6ff
+
+
